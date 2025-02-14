@@ -1,6 +1,6 @@
 # Hello, World! I am Adrian, a full-stack developer.
-# I am based in Dallas, Texas
-# Currently attending UTD
+### I am based in Dallas, Texas
+### Currently attending UTD
 
 
 
