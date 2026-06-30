@@ -1,4 +1,4 @@
-# 👋 Adrian | Full-Stack Developer & CS Enthusiast
+# 👋 Adrian | Full-Stack Developer
 
 <div align="center">
 
